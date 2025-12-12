@@ -132,5 +132,4 @@ GNU Affero General Public License v3.0
 
 ## Credits
 - Dataset: [DermNet](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
-- Model: EfficientNetV2S (TensorFlow)
-- Original Project: Tejasv Dua
+
